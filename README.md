@@ -43,7 +43,7 @@
           <p>Permite transpirar de forma natural sin tapar poros ni alterar procesos vitales.</p>
         </div>
         <div class="p-6 bg-green-100 rounded-lg shadow">
-          <img src="https://c.tenor.com/8qOc7rC7qtcAAAAM/animated-greeting-card-earth-day.gif/300x200/?eco,animal" alt="Beneficio 3" class="w-full h-40 object-cover rounded mb-4">
+          <img src="https://plus.unsplash.com/premium_vector-1720107818822-8a6a7b146164?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D/300x200/?eco,animal" alt="Beneficio 3" class="w-full h-40 object-cover rounded mb-4">
           <h3 class="text-xl font-bold mb-2">Amigable con la fauna</h3>
           <p>No se prueba en animales y utiliza empaques reciclables o biodegradables.</p>
         </div>
