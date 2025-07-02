@@ -33,12 +33,12 @@
       <h2 class="text-3xl font-bold mb-6 text-center">Beneficios del Desodorante Natural</h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="p-6 bg-green-100 rounded-lg shadow">
-          <img src="https://i1.wp.com/www.vidanaturalsalud.com/wp-content/uploads/2019/10/hacer-desodorante-natural2.jpg?fit=1200%2C801&ssl=1/300x200/?plant,nature" alt="Beneficio 1" class="w-full h-40 object-cover rounded mb-4">
+          <img src="https://thumbs.dreamstime.com/b/colorful-non-toxic-sign-concept-regulations-ecology-vector-illustration-268216133.jpg/300x200/?plant,nature" alt="Beneficio 1" class="w-full h-40 object-cover rounded mb-4">
           <h3 class="text-xl font-bold mb-2">Sin químicos tóxicos</h3>
           <p>Libre de ingredientes dañinos para ti y para los ecosistemas.</p>
         </div>
         <div class="p-6 bg-green-100 rounded-lg shadow">
-          <img src="https://static.vecteezy.com/system/resources/previews/004/664/860/non_2x/nontoxic-chemicals-concept-icon-zero-waste-products-care-for-environment-idea-thin-line-illustration-eco-organic-products-waste-management-isolated-outline-drawing-editable-stroke-vector.jpg/300x200/?organic,forest" alt="Beneficio 2" class="w-full h-40 object-cover rounded mb-4">
+          <img src="https://img.freepik.com/vecteurs-premium/imprime_1237547-9.jpg/300x200/?organic,forest" alt="Beneficio 2" class="w-full h-40 object-cover rounded mb-4">
           <h3 class="text-xl font-bold mb-2">Respeta tu cuerpo</h3>
           <p>Permite transpirar de forma natural sin tapar poros ni alterar procesos vitales.</p>
         </div>
