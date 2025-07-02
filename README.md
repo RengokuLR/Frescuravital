@@ -33,7 +33,7 @@
       <h2 class="text-3xl font-bold mb-6 text-center">Beneficios del Desodorante Natural</h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="p-6 bg-green-100 rounded-lg shadow">
-          <img src="https://thumbs.dreamstime.com/b/colorful-non-toxic-sign-concept-regulations-ecology-vector-illustration-268216133.jpg/300x200/?plant,nature" alt="Beneficio 1" class="w-full h-40 object-cover rounded mb-4">
+          <img src="https://media.istockphoto.com/id/1496271057/es/vector/icono-de-l%C3%ADnea-vectorial-que-representa-la-ausencia-de-productos-qu%C3%ADmicos-t%C3%B3xicos.jpg?s=612x612&w=0&k=20&c=w04KMMncziO5wnK1FCrzWJ3FB7TnLPDgsZ15QoxIzyE=/300x200/?plant,nature" alt="Beneficio 1" class="w-full h-40 object-cover rounded mb-4">
           <h3 class="text-xl font-bold mb-2">Sin químicos tóxicos</h3>
           <p>Libre de ingredientes dañinos para ti y para los ecosistemas.</p>
         </div>
