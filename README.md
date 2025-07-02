@@ -38,7 +38,7 @@
           <p>Libre de ingredientes dañinos para ti y para los ecosistemas.</p>
         </div>
         <div class="p-6 bg-green-100 rounded-lg shadow">
-          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVPxUVmYDFp4ntw15M9d64gy6HJF89YVNMWCwc5qkQUwzsAsl5cT1S9sDiYjqn438UYf7UW3wwfh6_7dOTr7nuEYYkcjbZYrpsPmQwLskU-lJd2TKdsYcx7KNosW-LA98GlA5T7qB8uuUcg1zOW84A6RJcYfUP1eFxLXx6c7wrFKMKONZqisBGUm91B9Zp/s1080/a23053_8fc4d85bffdb404d973c9217a266b669~mv2.gif/300x200/?organic,forest" alt="Beneficio 2" class="w-full h-40 object-cover rounded mb-4">
+          <img src="https://images.unsplash.com/vector-1738825029134-2b4ea561c794?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D/300x200/?organic,forest" alt="Beneficio 2" class="w-full h-40 object-cover rounded mb-4">
           <h3 class="text-xl font-bold mb-2">Respeta tu cuerpo</h3>
           <p>Permite transpirar de forma natural sin tapar poros ni alterar procesos vitales.</p>
         </div>
