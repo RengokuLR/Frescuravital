@@ -15,14 +15,13 @@
       <nav class="space-x-4">
         <a href="#beneficios" class="hover:underline">Beneficios</a>
         <a href="#criticas" class="hover:underline">Críticas</a>
-        <a href="#contacto" class="hover:underline">Contacto</a>
       </nav>
     </div>
   </header>
 
   <!-- Hero -->
   <section class="max-w-5xl mx-auto p-8 text-center">
-    <img src="https://source.unsplash.com/1200x400/?nature,animals" alt="Imagen Naturaleza Animalista" class="w-full h-64 object-cover rounded-lg mb-6">
+    <img src="https://th.bing.com/th/id/R.c68dccfd62c690089b1fe71ba3819bfb?rik=RnwRuSxu3RpEfg&pid=ImgRaw&r=0/1200x400/?nature,animals" alt="Imagen Naturaleza Animalista" class="w-full h-64 object-cover rounded-lg mb-6">
     <h2 class="text-4xl font-bold mb-4">Bienvenido a Frescura Vital</h2>
     <p class="mb-6 text-lg">Cuidamos tu piel y respetamos la naturaleza y la vida animal. Descubre cómo un desodorante natural puede marcar la diferencia.</p>
     <a href="#beneficios" class="bg-green-800 text-white px-6 py-3 rounded-full hover:bg-green-900">Descubrir</a>
@@ -34,17 +33,17 @@
       <h2 class="text-3xl font-bold mb-6 text-center">Beneficios del Desodorante Natural</h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="p-6 bg-green-100 rounded-lg shadow">
-          <img src="https://source.unsplash.com/300x200/?plant,nature" alt="Beneficio 1" class="w-full h-40 object-cover rounded mb-4">
+          <img src="https://i1.wp.com/www.vidanaturalsalud.com/wp-content/uploads/2019/10/hacer-desodorante-natural2.jpg?fit=1200%2C801&ssl=1/300x200/?plant,nature" alt="Beneficio 1" class="w-full h-40 object-cover rounded mb-4">
           <h3 class="text-xl font-bold mb-2">Sin químicos tóxicos</h3>
           <p>Libre de ingredientes dañinos para ti y para los ecosistemas.</p>
         </div>
         <div class="p-6 bg-green-100 rounded-lg shadow">
-          <img src="https://source.unsplash.com/300x200/?organic,forest" alt="Beneficio 2" class="w-full h-40 object-cover rounded mb-4">
+          <img src="https://static.vecteezy.com/system/resources/previews/004/664/860/non_2x/nontoxic-chemicals-concept-icon-zero-waste-products-care-for-environment-idea-thin-line-illustration-eco-organic-products-waste-management-isolated-outline-drawing-editable-stroke-vector.jpg/300x200/?organic,forest" alt="Beneficio 2" class="w-full h-40 object-cover rounded mb-4">
           <h3 class="text-xl font-bold mb-2">Respeta tu cuerpo</h3>
           <p>Permite transpirar de forma natural sin tapar poros ni alterar procesos vitales.</p>
         </div>
         <div class="p-6 bg-green-100 rounded-lg shadow">
-          <img src="https://source.unsplash.com/300x200/?eco,animal" alt="Beneficio 3" class="w-full h-40 object-cover rounded mb-4">
+          <img src="https://i.pinimg.com/736x/7c/a5/bb/7ca5bbcc6149ce0126fa24ad3b3a2761.jpg/300x200/?eco,animal" alt="Beneficio 3" class="w-full h-40 object-cover rounded mb-4">
           <h3 class="text-xl font-bold mb-2">Amigable con la fauna</h3>
           <p>No se prueba en animales y utiliza empaques reciclables o biodegradables.</p>
         </div>
