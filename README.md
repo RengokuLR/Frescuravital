@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -14,7 +13,6 @@
       <nav class="space-x-4">
         <a href="#importancia" class="hover:underline">Importancia</a>
         <a href="#beneficios" class="hover:underline">Beneficios</a>
-        <a href="#contacto" class="hover:underline">Contacto</a>
       </nav>
     </div>
   </header>
