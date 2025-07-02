@@ -78,7 +78,6 @@
     <p class="mb-6">¿Tienes ideas o sugerencias para seguir mejorando? ¡Tu opinión es vital!</p>
     <form class="max-w-md mx-auto">
       <input type="text" placeholder="Nombre" class="w-full p-3 mb-4 border border-green-300 rounded" required />
-      <input type="email" placeholder="Correo Electrónico" class="w-full p-3 mb-4 border border-green-300 rounded" required />
       <textarea placeholder="Mensaje" class="w-full p-3 mb-4 border border-green-300 rounded" rows="4" required></textarea>
       <button type="submit" class="bg-green-800 text-white px-6 py-3 rounded hover:bg-green-900">Enviar</button>
     </form>
