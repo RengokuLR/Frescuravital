@@ -38,12 +38,12 @@
           <p>Libre de ingredientes dañinos para ti y para los ecosistemas.</p>
         </div>
         <div class="p-6 bg-green-100 rounded-lg shadow">
-          <img src="https://img.freepik.com/vecteurs-premium/imprime_1237547-9.jpg/300x200/?organic,forest" alt="Beneficio 2" class="w-full h-40 object-cover rounded mb-4">
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVPxUVmYDFp4ntw15M9d64gy6HJF89YVNMWCwc5qkQUwzsAsl5cT1S9sDiYjqn438UYf7UW3wwfh6_7dOTr7nuEYYkcjbZYrpsPmQwLskU-lJd2TKdsYcx7KNosW-LA98GlA5T7qB8uuUcg1zOW84A6RJcYfUP1eFxLXx6c7wrFKMKONZqisBGUm91B9Zp/s1080/a23053_8fc4d85bffdb404d973c9217a266b669~mv2.gif/300x200/?organic,forest" alt="Beneficio 2" class="w-full h-40 object-cover rounded mb-4">
           <h3 class="text-xl font-bold mb-2">Respeta tu cuerpo</h3>
           <p>Permite transpirar de forma natural sin tapar poros ni alterar procesos vitales.</p>
         </div>
         <div class="p-6 bg-green-100 rounded-lg shadow">
-          <img src="https://i.pinimg.com/736x/7c/a5/bb/7ca5bbcc6149ce0126fa24ad3b3a2761.jpg/300x200/?eco,animal" alt="Beneficio 3" class="w-full h-40 object-cover rounded mb-4">
+          <img src="https://c.tenor.com/8qOc7rC7qtcAAAAM/animated-greeting-card-earth-day.gif/300x200/?eco,animal" alt="Beneficio 3" class="w-full h-40 object-cover rounded mb-4">
           <h3 class="text-xl font-bold mb-2">Amigable con la fauna</h3>
           <p>No se prueba en animales y utiliza empaques reciclables o biodegradables.</p>
         </div>
